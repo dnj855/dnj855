@@ -1,7 +1,7 @@
 # Cédric Lang-Roth
 ## 👨‍💻 Développeur Full-Stack Senior | Ruby on Rails & JavaScript
 
-> Développeur passionné avec une forte expérience en PHP/Symfony, j'ai orienté mon expertise vers la robustesse de **Ruby on Rails** et la modernité des écosystettes JavaScript comme **React/Next.js** et **Vue/Nuxt.js**. Mon objectif : créer des applications web performantes, maintenables et centrées sur l'utilisateur.
+> Développeur passionné avec une forte expérience en PHP/Symfony, j'ai orienté mon expertise vers la robustesse de **Ruby on Rails** et la modernité des écosystêmes JavaScript comme **React/Next.js** et **Vue/Nuxt.js**. Mon objectif : créer des applications web performantes, maintenables et centrées sur l'utilisateur.
 
 ---
 
